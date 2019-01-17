@@ -9,6 +9,8 @@ public class arraytt {
         susu();
         StringBufferTest();
 
+       new 类的继承().GetSS();
+
     }
 
     //http://www.runoob.com/java/java-stringbuffer.html
@@ -34,7 +36,7 @@ public class arraytt {
     {
 
 
-        for (  int i=101; i<999; i++) {
+        for (  int i=101; i<121; i++) {
 
 
 
