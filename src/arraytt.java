@@ -9,7 +9,20 @@ public class arraytt {
         susu();
         StringBufferTest();
 
+        new java循环结构().Test();
+
+        java条件语句  dd= new   java条件语句();
+        dd.ifyuju(0);
+        dd.ifyuju(1);
+        dd.ifyuju(2);
+        dd.ifyuju(3);
+        dd.ifyuju(4);
+
        new 类的继承().GetSS();
+
+new javaswitchcase语句().test(2,"4");
+        new javaswitchcase语句().test(1,"2");
+
 
     }
 
