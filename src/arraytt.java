@@ -20,9 +20,9 @@ public class arraytt {
 
        new 类的继承().GetSS();
 
-new javaswitchcase语句().test(2,"4");
-        new javaswitchcase语句().test(1,"2");
-
+       new javaswitchcase语句().test(2,"4");
+       new javaswitchcase语句().test(1,"2");
+new java里的字符串().RunAll();
 
     }
 
