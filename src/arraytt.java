@@ -1,3 +1,4 @@
+import java.lang.reflect.Array;
 import java.util.*;
 
 public class arraytt {
@@ -23,7 +24,8 @@ public class arraytt {
        new javaswitchcase语句().test(2,"4");
        new javaswitchcase语句().test(1,"2");
 new java里的字符串().RunAll();
-
+        java的StringBuilder类.StringTest();
+        ArraySortJava的数组排序();
     }
 
     //http://www.runoob.com/java/java-stringbuffer.html
@@ -84,5 +86,22 @@ buf.append(111);
     System.out.print(buf.toString());
 
     }
+
+    public static void ArraySortJava的数组排序()
+    {
+        double[] myList = {5.5,1.9, 2.9, 3.4, 3.5};
+        //参数：
+        //a - 要排序的数组
+        //c - 确定数组顺序的比较器。 null 值指示应该使用元素的 自然顺序。
+//        double x= Arrays.sort(myList,(a,b)
+//                ->Double.compare(a,b));
+          Arrays.sort(myList);
+
+/*        String[] s = new String[]{"Yuan","Mxy"};//传入String类型的数组，使用"-"号拼接
+        String join2 = StringUtils.join(s,"-");
+        System.out.println(join2);*/
+for (double item:myList   ){
+        System.out.println(item);
+    }}
 
 }
